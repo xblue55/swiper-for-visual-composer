@@ -1,14 +1,10 @@
 ## Swiper - 3D Coverflow Effect for visual composer [WPBakery Page Builder]
 
-Contributors: xblue55
-
-Tags: swiper, 3D Coverflow Effect, visual composer, WPBakery Page Builder 
-
-Stable tag: 1.0 
-
-License: GPLv2 or later 
-
-License URI: http://www.gnu.org/licenses/gpl-2.0.html 
+- Contributors: xblue55
+- Tags: swiper, 3D Coverflow Effect, visual composer, WPBakery Page Builder 
+- Stable tag: 1.0 
+- License: GPLv2 or later 
+- License URI: http://www.gnu.org/licenses/gpl-2.0.html 
 
 ## Description
 
