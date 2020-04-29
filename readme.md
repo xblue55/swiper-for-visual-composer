@@ -14,7 +14,7 @@ Swiper is the most modern free mobile touch slider with hardware accelerated tra
 ## Installation
 
 1. Go to plugins in your dashboard and select 'add new'.
-2. Search for 'Swiper - 3D Coverflow Effect for visual composer' and install it.
+2. Search for 'Swiper for Visual Composer' and install it.
 3. Go To pages and create design with help of viusal composer page builder.
 4. Fill some additional informations.
 5. Now visit your site
