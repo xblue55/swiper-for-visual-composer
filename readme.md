@@ -20,7 +20,7 @@ Swiper is the most modern free mobile touch slider with hardware accelerated tra
 5. Now visit your site
 
 ## Screenshots
-
+![Screenshots](https://github.com/xblue55/swiper-for-visual-composer/blob/master/screenshot.png?raw=true)
 
 ## Changelog
 
